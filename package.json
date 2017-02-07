@@ -1,0 +1,36 @@
+{
+  "name": "emotikon",
+  "version": "1.0.0",
+  "description": "Emoji for everywhere use",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yatharthk/emotikon.git"
+  },
+  "files": [
+    "index.js",
+    "emoji.json"
+  ],
+  "keywords": [
+    "emoji",
+    "emoticon",
+    "ascii",
+    "unicode",
+    "cli",
+    "terminal",
+    "apps",
+    "json"
+  ],
+  "author": "Yatharth Khatri <yatharth01@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yatharthk/emotikon/issues"
+  },
+  "homepage": "https://github.com/yatharthk/emotikon#readme",
+  "devDependencies": {
+    "ava": "*",
+    "log-update": "^1.0.2"
+  }
+}
