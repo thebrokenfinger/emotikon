@@ -4,7 +4,7 @@
 
 ![CLI example screenshot](/screenshot.gif)
 
-**Emotikon** is just a JSON file containing emoji that can be used wherever.
+**Emotikon** is just a [JSON file](/emoji.json) containing emoji that can be used wherever.
 
 ### Install
 
